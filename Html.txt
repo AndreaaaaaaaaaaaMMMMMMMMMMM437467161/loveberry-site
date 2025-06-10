@@ -1,0 +1,29 @@
+<!-- HERO -->
+<section class="hero">
+  <h1>Prirodno ukusno. Zdravo jednostavno.</h1>
+  <p>Distribucija zdravih sokova i čokolada iz prirode – to je Loveberry.</p>
+</section>
+
+<!-- ABOUT US -->
+<section class="intro" id="onama">
+  <h2>O nama</h2>
+  <p>Loveberry je porodična kompanija koja se zalaže za promociju zdravog načina života kroz pažljivo odabrane proizvode. Naša misija je da donesemo najkvalitetnije prirodne sokove i čokolade na vaše trpeze, bez nepotrebnih dodataka i sa čistim ukusom prirode.</p>
+</section>
+
+<!-- BRANDS & PRODUCTS -->
+<section class="brands" id="proizvodi">
+  <h2>Naši brendovi i proizvodi</h2>
+  <p>U ponudi imamo širok asortiman zdravih sokova i čokolada. Svaki proizvod je brižljivo napravljen uz fokus na kvalitet, ukus i nutritivnu vrednost.</p>
+  
+  <div class="product-gallery">
+    <div class="product">
+      <img src="images/sok1.jpg" alt="Loveberry Sok 1">
+      <p>100% prirodni voćni sok bez dodatog šećera</p>
+    </div>
+    <div class="product">
+      <img src="images/cokolada1.jpg" alt="Loveberry Čokolada 1">
+      <p>Čokolada sa visokim procentom kakaa, bez aditiva</p>
+    </div>
+    <!-- Add more products as needed -->
+  </div>
+</section>
